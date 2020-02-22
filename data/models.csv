@@ -1,0 +1,5 @@
+model_id,model_name,open_circuit_voltage,energy,resistance,capacity
+1,spruce,4.1,9.2,33,5.2
+2,fern,4.08,9.15,70,5.5
+3,oak,4.06,9.1,60,5.7
+4,maple,4.12,9.6,62,5.1
